@@ -1,1 +1,2 @@
-Be patient. This will rise soon!
+<?php
+require('concrete/dispatcher.php');
