@@ -1,7 +1,7 @@
 body { 
-	/* customize_body */ font: normal normal 13px Arial; /* customize_body */
+	/* customize_body */ font: normal normal 16px Arial; /* customize_body */
 	/* customize_body */ color: #777777; /* customize_body */
-	line-height:18px;
+	line-height:150%;
 }
 
 img {border: 0px}

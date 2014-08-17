@@ -209,8 +209,7 @@
 		</div>
 		<?php } ?>
 		
-		<div id="header-area">
-			<div class="divider"></div>
+		<div id="header-area"> 
 			<div id="header-area-inside">
 			<?php			
 			$ah = new Area('Header');
@@ -219,7 +218,7 @@
 			</div>	
 			
 			<?php if ($ah->getTotalBlocksInArea() > 0) { ?>
-				<div class="divider"></div>
+				
 			<?php } ?>
 		</div>
 	</div>			

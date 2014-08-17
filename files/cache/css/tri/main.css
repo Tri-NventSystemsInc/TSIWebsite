@@ -10,7 +10,7 @@ fieldset { border:1px solid #ccc;}
 div.ccm-error-response {color: #f00; margin-bottom: 12px}
 
 /* Page Structure / Navigation */
-#page{ width:800px; margin:auto; text-align:left }
+#page{ width:80%; margin:auto; text-align:left }
 #page #headerSpacer{ height:64px }
 #page #header{ position:relative; } 
 #page #header #logo{ color:#999; font-size:32px; 
@@ -75,4 +75,24 @@ div.spacer,div.ccm-spacer{ clear:both; font-size:1px; line-height:1px }
 .noTopSpace{margin-top:0px; padding-top:0px}
 div.pageSection { margin-bottom: 10px; }
 
-/* customize_miscellaneous */ /* customize_miscellaneous */
+/* customize_miscellaneous */ 
+.img-circle {
+  border-radius: 50%;
+} 
+.label-warning {
+  background-color: #f0ad4e;
+}
+.label {
+	border: 1px solid #000
+	display: inline;
+	padding: .2em .6em .3em;
+	font-size: 75%;
+	font-weight: 700;
+	line-height: 1;
+	color: #fff;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+}
+/* customize_miscellaneous */

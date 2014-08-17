@@ -4,8 +4,9 @@ $this->inc('elements/header.php'); ?>
 
 	<div id="main-content-inner">
 		
-			<?php 
-			if (true) {
+			<?php  
+			$p = Page::getCurrentPage(); 
+			if ($p->cID == HOME_CID) {
 			?>
 				<div id="content">  
 					<div id="container">
@@ -72,9 +73,13 @@ $this->inc('elements/header.php'); ?>
 
 <?php   
 $html = Loader::helper('html');
-$this->addFooterItem($html->javascript($this->getThemePath().'/widget/lib/jquery.ui.core.js')); 
-$this->addFooterItem($html->javascript($this->getThemePath().'/widget/lib/jquery.ui.widget.js')); 
-$this->addFooterItem($html->javascript($this->getThemePath().'/widget/lib/jquery.ui.rcarousel.js'));   
-$this->addFooterItem($html->javascript($this->getThemePath().'/main.js'));  
+
+if ($p->cID == HOME_CID) { 
+	$this->addFooterItem($html->javascript($this->getThemePath().'/widget/lib/jquery.ui.core.js')); 
+	$this->addFooterItem($html->javascript($this->getThemePath().'/widget/lib/jquery.ui.widget.js')); 
+	$this->addFooterItem($html->javascript($this->getThemePath().'/widget/lib/jquery.ui.rcarousel.js'));    
+	$this->addFooterItem($html->javascript($this->getThemePath().'/main.js'));  
+}
+
 $this->inc('elements/footer.php');  
 ?> 
