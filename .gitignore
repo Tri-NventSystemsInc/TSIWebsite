@@ -1,4 +1,4 @@
-/files/cache/
-/files/tmp/
-/config/
-/c5.sql
+files/cache/**/*
+files/tmp/**/*
+config/
+c5.sql
