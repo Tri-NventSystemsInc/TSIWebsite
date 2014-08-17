@@ -5,10 +5,6 @@ $this->inc('elements/header.php'); ?>
 	<div id="main-content-inner">
 		
 			<?php 
-			 global $c;
-		   $nh = Loader::helper('navigation');
-		   $cpl = $nh->getCollectionURL($c);
-		   print $cpl;
 			if (true) {
 			?>
 				<div id="content">  
@@ -23,7 +19,7 @@ $this->inc('elements/header.php'); ?>
 							<div id="slide03" class="slide">
 								<img src="<?= $this->getThemePath(); ?>/images/html_slides/horizontalvertical.png" alt="horizontal and vertical carousel" />
 								<div class="text">
-									<h4>We invision as globally recognize as premier customer oriented software Development Company.</h4> 
+									<h4>We invision a globally recognized premier customer oriented software development company.</h4> 
 								</div>
 							</div>
 							
