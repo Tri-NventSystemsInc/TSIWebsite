@@ -1,4 +1,4 @@
 files/cache/**/*
 files/tmp/**/*
-config/
+config/site.php
 c5.sql
