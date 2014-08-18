@@ -20,7 +20,7 @@ $this->inc('elements/header.php'); ?>
 							<div id="slide03" class="slide">
 								<img src="<?= $this->getThemePath(); ?>/images/html_slides/horizontalvertical.png" alt="horizontal and vertical carousel" />
 								<div class="text">
-									<h4>We invision a globally recognized premier customer oriented software development company.</h4> 
+									<h4>We envision a globally recognized premier customer oriented software development company.</h4> 
 								</div>
 							</div>
 							
