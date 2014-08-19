@@ -8,26 +8,26 @@ $this->inc('elements/header.php'); ?>
 			$p = Page::getCurrentPage(); 
 			if ($p->cID == HOME_CID) {
 			?>
-				<div id="content">  
+				<div id="content">
 					<div id="container">
 						<div id="carousel"  >
-							<div id="slide01" class="slide" >  
+							<div id="slide01" class="slide" >
 								<div class="text">
-									<h2>We always aim to deliver quality software products that seamlessly integrates clients businesses as they grow</h2> 
+									<h2>We always aim to deliver quality software products that seamlessly integrates clients businesses as they grow</h2>
 								</div>
 							</div>
-							
+
 							<div id="slide03" class="slide">
 								<img src="<?= $this->getThemePath(); ?>/images/html_slides/horizontalvertical.png" alt="horizontal and vertical carousel" />
 								<div class="text">
-									<h4>We envision a globally recognized premier customer oriented software development company.</h4> 
+									<h4>We envision a globally recognized premier customer oriented software development company.</h4>
 								</div>
 							</div>
-							
+
 							<div id="slide04" class="slide">
 								<img src="<?= $this->getThemePath(); ?>/images/html_slides/multi.png" alt="multi carousels" />
 								<div class="text">
-									<h1>We achieve beyond expectations!</h1> 
+									<h1>We achieve beyond expectations!</h1>
 								</div>
 							</div>
 
@@ -37,8 +37,8 @@ $this->inc('elements/header.php'); ?>
 									<h1>any content</h1>
 									<p>from images to any HTML element</p>
 								</div>
-							</div> 
-							
+							</div>
+
 							<div id="slide05" class="slide">
 								<img src="<?= $this->getThemePath(); ?>/images/html_slides/customization.png" alt="customization" />
 								<div class="text">
@@ -46,17 +46,17 @@ $this->inc('elements/header.php'); ?>
 									<p>style it whatever you like</p>
 								</div>
 							</div>
-							
+
 							<div id="slide06" class="slide">
 								<img src="<?= $this->getThemePath(); ?>/images/html_slides/browsers.png" alt="multi browser support" />
 								<div class="text">
 									<h1>multi browser<br />support</h1>
 									<p>supports even old browsers</p>
 								</div>
-							</div>					
-						</div> 
+							</div>
+						</div>
 						<a href="#" id="ui-carousel-next"><span>next</span></a>
-					    <a href="#" id="ui-carousel-prev"><span>prev</span></a> 
+					    <a href="#" id="ui-carousel-prev"><span>prev</span></a>
 						<div id="pages"></div>
 					</div>
 				</div>
