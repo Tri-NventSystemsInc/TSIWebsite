@@ -5,65 +5,44 @@
 <head>
 
 <?php Loader::element('header_required'); ?>
+	
 
-<link rel="stylesheet" type="text/css" href="<?=$this->getThemePath()?>/assets/css/main.css" />
-<link rel="stylesheet" type="text/css" href="<?=$this->getThemePath()?>/assets/css/bootstrap.css" />
-<link rel="stylesheet" type="text/css" href="<?=$this->getThemePath()?>/assets/css/font-awesome.css" />
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" media="screen" type="text/css" href="<?php echo $this->getStyleSheet('/assets/css/bootstrap.css')?>" />
+    <link rel="stylesheet" media="screen" type="text/css" href="<?php echo $this->getStyleSheet('/assets/css/font-awesome.min.css')?>" /> 
+
+    <!-- Custom styles for this template --> 
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700,900' rel='stylesheet' type='text/css'> 
+    <link rel="stylesheet" media="screen" type="text/css" href="<?php echo $this->getStyleSheet('/assets/css/main.css')?>" /> 
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
 
 </head>
 <body>
 
-<div id="page">
-	<div id="headerSpacer"></div>
-	<div id="header">
-		
-		<?php if ($c->isEditMode()) { ?>
-		<div style="min-height: 80px">
-		<?php } ?>
-
-        <?php $user = new User();
-            if (!$user->isLoggedIn()) { ?>
-
-            <div class="navbar navbar-inverse navbar-fixed-top">
-                <div class="container">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="#">TRI-NVENT</a>
-                    </div>
-                    <div class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav navbar-right">
-                            <li class="active"><a href="/">Home</a></li>
-                            <li><a href="/products">Products</a></li>
-                            <li><a href="/solution">Solutions</a></li>
-                            <li><a href="/tri-nvent-culture">Tri-nvent Culture</a></li>
-                            <li><a href="/our-tools">Out Tools</a></li>
-                            <li><a href="/contact">Contact</a></li>
-                            <li><a href="/about">About Us</a></li>
-                        </ul>
-                    </div><!--/.nav-collapse -->
-                </div>
-            </div>
-        <?php } ?>
-		<div class="spacer" style="margin-top: 80px;"></div>
-
-		<?php if ($c->isEditMode()) { ?>
-		</div>
-		<?php } ?>
-		
-		<div id="header-area"> 
-			<div id="header-area-inside">
-			<?php			
-			$ah = new Area('Header');
-			$ah->display($c);			
-			?>	
-			</div>	
-			
-			<?php if ($ah->getTotalBlocksInArea() > 0) { ?>
-				
-			<?php } ?>
-		</div>
-	</div>			
+<!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">tri-nvent</a>
+        </div>
+        <div class="navbar-collapse collapse">
+         	<?php
+			$a = new Area('Header Nav');
+			$a->display($c);
+			?>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
