@@ -45,7 +45,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">SP<i class="fa fa-circle"></i>T</a>
+            <a class="navbar-brand" href="/"><span style="font-size: 12px;">This is a </span>SP<i class="fa fa-circle"></i>T <span style="font-size: 12px;">template</span></a>
+
         </div>
         <div class="navbar-collapse collapse">
             <div id="nav-list" class="hidden">
@@ -53,6 +54,7 @@
                 $a = new GlobalArea('Navigation');
                 $a->display();
                 ?>
+
             </div>
         </div><!--/.nav-collapse -->
     </div>

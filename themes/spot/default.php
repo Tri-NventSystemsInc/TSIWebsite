@@ -24,7 +24,7 @@ $this->inc('elements/header.php'); ?>
 
 			<div class="col-lg-4">
 				<i class="fa fa-laptop"></i>
-				<h4>BOOTSTRAP</h4>
+				<h4>DEVELOP</h4>
 				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even believable.</p>
 			</div><!-- col-lg-4 -->
 
@@ -106,18 +106,5 @@ $this->inc('elements/header.php'); ?>
 			</div><!-- row -->
 		</div><!-- container -->
 	</div><!-- dg -->
-	
-	
-	<div id="r">
-		<div class="container">
-			<div class="row centered">
-				<div class="col-lg-8 col-lg-offset-2">
-					<h4>WE ARE STORYTELLERS. BRANDS ARE OUR SUBJECTS. DESIGN IS OUR VOICE.</h4>
-					<p>We believe ideas come from everyone, everywhere. At BlackTie, everyone within our agency walls is a designer in their own right. And there are a few principles we believe—and we believe everyone should believe—about our design craft. These truths drive us, motivate us, and ultimately help us redefine the power of design.</p>
-				</div>
-			</div><!-- row -->
-		</div><!-- container -->
-	</div><! -- r wrap -->
-
 
 <?php $this->inc('elements/footer.php'); ?>
