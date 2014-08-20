@@ -47,5 +47,16 @@
 
     <?php Loader::element('footer_required'); ?>
 
+    <script>
+
+        jQuery(function($) {
+            // to avoid flickering menu
+            $('#nav-list').removeClass('hidden');
+            $('#nav-list .nav').addClass('navbar-nav navbar-right');
+            $('#nav-list .nav-selected').addClass('active');
+        });
+
+    </script>
+
 </body>
 </html>
