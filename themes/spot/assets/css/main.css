@@ -6,10 +6,6 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
- 
-/* FONTS */
-/*@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700,900);*/
 
 /* OVERALL ASPECT */
 
@@ -133,7 +129,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(assets/img/header-bg.jpg) no-repeat center top;
+	background: url(../img/header-bg.jpg) no-repeat center top;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;

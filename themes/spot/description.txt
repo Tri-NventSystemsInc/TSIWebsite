@@ -1,2 +1,2 @@
-Spot theme
-Spot theme is tri-nvent's default theme.
+Spot
+Spot bootstrap theme
