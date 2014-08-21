@@ -2,15 +2,12 @@
 $this->inc('elements/header.php'); ?>
 
 
-<div id="blue">
-		<div class="container">
-            <?php
-            $a = new Area('Map');
-            $a->display($c);
-            ?>
-
-		</div><!-- container -->
-	</div><!--  bluewrap -->
+    <div>
+        <?php
+        $a = new Area('Map');
+        $a->display($c);
+        ?>
+	</div>
 
 
 	<div class="container desc">
