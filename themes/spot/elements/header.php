@@ -45,7 +45,7 @@ $user = new User();
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/"><span style="font-size: 12px;">This is a </span>SP<i class="fa fa-circle"></i>T <span style="font-size: 12px;">template</span></a>
+            <a class="navbar-brand" href="/">TRI<i class="fa fa-minus-square"></i>NVENT</a>
 
         </div>
         <div class="navbar-collapse collapse">
