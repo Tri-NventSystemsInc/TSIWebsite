@@ -65,24 +65,7 @@ $this->inc('elements/header.php'); ?>
 			</div><!-- row -->
 		</div><!-- container -->
 	</div><!-- DG -->
-
-
-	<!-- FEATURE SECTION -->
-	<div class="container wb">
-		<div class="row centered">
-			<br><br>
-			<div class="col-lg-8 col-lg-offset-2">
-				<h4>WE CREATE FIRST CLASS DESIGN</h4>
-				<p>By being true to the brand we represent, we elevate the audiences’ relationship to it. Like becomes love becomes a passion. Passion becomes advocacy. And we see the brand blossom from within, creating a whole story the audience embraces. That’s when the brand can truly flex its muscles.</p>
-			<p><br/><br/></p>
-			</div>
-			<div class="col-lg-2"></div>
-			<div class="col-lg-10 col-lg-offset-1">
-				<img class="img-responsive" src="themes/spot/assets/img/munter.png" alt="">
-			</div>
-		</div><!-- row -->
-	</div><!-- container -->
-
+ 
 
 	<div id="lg">
 		<div class="container">
