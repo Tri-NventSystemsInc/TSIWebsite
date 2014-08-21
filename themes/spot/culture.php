@@ -22,13 +22,13 @@ $this->inc('elements/header.php'); ?>
                 <p>The way we do things in Tri-nvent! We prefer people to have good values, determination and hard work, passion, open minded, fun over intellect and experience. We believe that relationship driven approach for each employee and stakeholders is the catalyst for a productive working environment.</p>
                 <p>Everybody exercises <strong>“CLICK” is Fun if there is Passion</strong></p>
                 <div>
-                    <p><strong>Commitment</strong> – Meeting deadlines in all tasks without any close supervision</p>
-                    <p><strong>Live Balance</strong> – Valuing physical, social, spiritual development and family enrichment over financial needs and wants</p>
-                    <p><strong>Integrity</strong> – Doing what is promised</p>
-                    <p><strong>Communication</strong> – Connecting comfortably with stakeholders, team mates, and clients</p>
-                    <p><strong>Knowledge</strong> – Thriving to learn new tools and technology, techniques and approach to solving problems in systems development</p>
-                    <p><strong>Fun</strong> – Considering hard tasks as challenging, stimulating and happy experience by enjoying diversions such as sports and other excursion activities</p>
-                    <p><strong>Passion</strong> – Performing tasks with persistence and enthusiasm</p>
+                    <p><i class="fa fa-thumbs-up"></i><strong>Commitment</strong> – Meeting deadlines in all tasks without any close supervision</p>
+                    <p><i class="fa fa-coffee"></i><strong>Live Balance</strong> – Valuing physical, social, spiritual development and family enrichment over financial needs and wants</p>
+                    <p><i class="fa fa-key"></i><strong>Integrity</strong> – Doing what is promised</p>
+                    <p><i class="fa fa-phone-square"></i><strong>Communication</strong> – Connecting comfortably with stakeholders, team mates, and clients</p>
+                    <p><i class="fa fa-star"></i><strong>Knowledge</strong> – Thriving to learn new tools and technology, techniques and approach to solving problems in systems development</p>
+                    <p><i class="fa fa-smile-o"></i><strong>Fun</strong> – Considering hard tasks as challenging, stimulating and happy experience by enjoying diversions such as sports and other excursion activities</p>
+                    <p><i class="fa fa-code"></i><strong>Passion</strong> – Performing tasks with persistence and enthusiasm</p>
                 </div>
             </div>
 		</div><!-- row -->

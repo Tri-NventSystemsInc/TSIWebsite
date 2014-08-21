@@ -13,10 +13,10 @@ $this->inc('elements/header.php'); ?>
 
                     <h4>Best Practices</h4>
                     <p>
-                        <i class="fa fa-circle-o"></i> Active stakeholder’s participation<br>
-                        <i class="fa fa-circle-o"></i> Collaboration, open, and constant communication<br>
-                        <i class="fa fa-circle-o"></i> Relationship driven approach between Stakeholders, employee, and clients<br>
-                        <i class="fa fa-circle-o"></i> Test driven development
+                        <i class="fa fa-suitcase"></i>&nbsp;&nbsp;Active stakeholder’s participation<br>
+                        <i class="fa fa-phone-square"></i>&nbsp;&nbsp;Collaboration, open, and constant communication<br>
+                        <i class="fa fa-user"></i>&nbsp;&nbsp;Relationship driven approach between Stakeholders, employee, and clients<br>
+                        <i class="fa fa-road"></i>&nbsp;Test driven development
                     </p>
 				</div>
 			</div><!-- row -->
