@@ -2,7 +2,7 @@
 $this->inc('elements/header.php'); ?>
 
 
-    <div>
+    <div style="margin-top: 100px;">
         <?php
         $a = new Area('Map');
         $a->display($c);
