@@ -45,7 +45,7 @@ $user = new User();
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a style="padding: 0px;" class="navbar-brand" href="/"><img src="<?= $this->getThemePath() ?>/assets/img/logo.png" height="70" width="70"></a>
+            <a style="padding: 0px;" class="navbar-brand" href="/"><img src="<?= $this->getThemePath() ?>/assets/img/tsi.png" height="70" width="290"></a>
 
         </div>
         <div class="navbar-collapse collapse">
