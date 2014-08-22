@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="<?= $this->getThemePath() ?>/assets/img/t.png">
+    <link rel="shortcut icon" href="<?= $this->getThemePath() ?>/assets/img/logo.png">
 
     <!-- Bootstrap core CSS -->
     <link href="<?= $this->getThemePath() ?>/assets/css/bootstrap.css" rel="stylesheet">
@@ -45,7 +45,7 @@ $user = new User();
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">TRI<i class="fa fa-minus-square"></i>NVENT</a>
+            <a style="padding: 0px;" class="navbar-brand" href="/"><img src="themes/spot/assets/img/logo.png" height="70" width="70"></a>
 
         </div>
         <div class="navbar-collapse collapse">

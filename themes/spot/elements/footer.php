@@ -63,6 +63,7 @@
         jQuery(function($) {
             // to avoid flickering menu
             $('#nav-list').removeClass('hidden');
+            $('#nav-list').css('margin-top', '10px');
             $('#nav-list .nav').addClass('navbar-nav navbar-right');
             $('#nav-list .nav-selected').addClass('active');
         });
