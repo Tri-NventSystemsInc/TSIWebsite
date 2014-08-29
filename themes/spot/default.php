@@ -71,20 +71,15 @@ $this->inc('elements/header.php'); ?>
 		<div class="container">
 			<div class="row centered">
 				<h4>OUR AWESOME CLIENTS</h4>
-				<div class="col-lg-2 col-lg-offset-1">
-					<img src="themes/spot/assets/img/c01.gif" alt="">
+                <div style="margin-bottom: 30px;"></div>
+				<div class="col-lg-2 col-lg-offset-3">
+					<img src="themes/spot/assets/img/asti.png" alt="">
 				</div>
 				<div class="col-lg-2">
-					<img src="themes/spot/assets/img/c02.gif" alt="">
+					<img src="themes/spot/assets/img/subic.png" alt="">
 				</div>
 				<div class="col-lg-2">
-					<img src="themes/spot/assets/img/c03.gif" alt="">
-				</div>
-				<div class="col-lg-2">
-					<img src="themes/spot/assets/img/c04.gif" alt="">
-				</div>
-				<div class="col-lg-2">
-					<img src="themes/spot/assets/img/c05.gif" alt="">
+					<img src="themes/spot/assets/img/ileco.png" alt="">
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
