@@ -64,7 +64,7 @@ $this->inc('elements/header.php'); ?>
             <div class="col-lg-3">
                 <img class="img-circle" src="/files/3014/0826/5283/arjay.jpg" width="110" height="130" alt="">
                 <h4>Arjay Adong</h4>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <p>Arjay is a true hard core software developer. For best results give him the freedom to show you what he can do and allow him to be creative. A true professional, he’ll deliver more than you expected. Guaranteed.</p>
             </div><!-- col-lg-3 -->
 
             <div class="col-lg-3">
