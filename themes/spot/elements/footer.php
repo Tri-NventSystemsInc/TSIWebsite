@@ -3,7 +3,7 @@
     <div id="r">
         <div class="container">
             <div class="row centered">
-                <div class="col-lg-8 col-lg-offset-2">
+                <div class="col-lg-12">
                     <h4>WE ARE STORYTELLERS. BRANDS ARE OUR SUBJECTS. DESIGN IS OUR VOICE.</h4>
                     <p>We always aim to deliver quality software products that seamlessly integrates clients businesses as they grow. We achieve beyond expectations!</p>
                 </div>
