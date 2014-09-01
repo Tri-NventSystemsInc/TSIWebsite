@@ -30,19 +30,28 @@ $this->inc('elements/header.php'); ?>
 			<div class="col-lg-3">
 				<img class="img-circle" src="/files/3014/0826/0613/volt.JPG" width="110" height="130" alt="">
 				<h4>Voltaire Picardo</h4>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+				<h5 style="color: #f85c37">CEO, Founder</h5>
+				<p>Voltaire founded Tri-nvent Systems Inc. in 2009 and manages the company since its establishment up to the present.
+                    He specializes in software designs and development.
+                    His over 10 years of programming experience honed him to become an expert in various databases and development tools.</p>
 			</div><!-- col-lg-3 -->
 
 			<div class="col-lg-3">
 				<img class="img-circle" src="/files/9314/0826/0896/rey.JPG" width="110" height="130" alt="">
 				<h4>Rey Repe</h4>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <h5 style="color: #f85c37">Co-Founder</h5>
+				<p>Rey is a visionary, an extremely talented individual with over a decade of industry experience in both hardware and software.
+                    Presently, he is a MIS Head of a prestigious Utility Company in the country.
+                    His expertise covers systems analysis and development, networks and server administration.</p>
 			</div><!-- col-lg-3 -->
 
 			<div class="col-lg-3">
 				<img class="img-circle" src="/files/2514/0826/1661/ramil.JPG" width="110" height="130" alt="">
-				<h4>Ramil Repe</h4>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+				<h4>Ramil Repe, CPA</h4>
+                <h5 style="color: #f85c37">Co-Founder</h5>
+				<p>Ramil started out as an Auditor in trusted and prominent auditing firms in the country.
+                    His brilliance and superb leadership skill pave the way to his appointment as an office manager in a famous credit cooperative in the Philippines.
+                    He is responsible for the development of Tri-Nvent’s Accounting System.</p>
 			</div><!-- col-lg-3 -->
 
 			<div class="col-lg-3">
