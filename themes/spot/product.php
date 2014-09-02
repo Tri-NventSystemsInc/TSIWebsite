@@ -71,7 +71,10 @@ $this->inc('elements/header.php'); ?>
 		</div><!-- row -->
         <div class="row centered">
             <br><br>
-            <div class="col-lg-2">
+            <div class="col-lg-4">
+                <i class="fa fa-cloud"></i>
+                <h4>Membership System for Electric Utilities</h4>
+                <p class="product_desc">Enable you to manage applications and members. Printing of members' ID is also supported.</p>
             </div><!-- col-lg-4 -->
 
             <div class="col-lg-4">
