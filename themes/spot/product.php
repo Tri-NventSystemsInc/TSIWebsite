@@ -60,13 +60,13 @@ $this->inc('elements/header.php'); ?>
 			<div class="col-lg-4">
 				<i class="fa fa-shopping-cart"></i>
 				<h4>Queueing  System</h4>
-				<p>Highly customizable software that enable you to eliminate chaos at payment counters.</p>
+				<p class="product_desc">Highly customizable software that enable you to eliminate chaos at payment counters.</p>
 			</div><!-- col-lg-4 -->
 
 			<div class="col-lg-4">
 				<i class="fa fa-cloud"></i>
-				<h4>Mobile Reading & Data Collection System</h4>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+				<h4>Mobile Read & Bill System</h4>
+				<p class="product_desc">Suitable for Water and Electric Industries. Allow meter readers to read water and electric consumption and print bill right away using mobile devices.</p>
 			</div><!-- col-lg-4 -->
 		</div><!-- row -->
         <div class="row centered">
@@ -77,13 +77,13 @@ $this->inc('elements/header.php'); ?>
             <div class="col-lg-4">
                 <i class="fa fa-shopping-cart"></i>
                 <h4>SMS Custom applications</h4>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <p class="product_desc">Designed to connect to any databases and enable your business to broadcast messages (e.g. announcements) to the clients.</p>
             </div><!-- col-lg-4 -->
 
             <div class="col-lg-4">
                 <i class="fa fa-cloud"></i>
-                <h4>Online Session System (e-Session)</h4>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <h4>Point of Sale & Inventory System</h4>
+                <p class="product_desc">Tailored to cater wide range of industries. Bundled with reports and charts that could be helpful in decision making.</p>
             </div><!-- col-lg-4 -->
         </div><!-- row -->
 	</div><!-- container -->
