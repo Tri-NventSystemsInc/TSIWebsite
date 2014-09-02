@@ -17,18 +17,33 @@ $this->inc('elements/header.php'); ?>
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
                     <h4>What is Tri-nvent...</h4>
-                    <p>Tri-Nvent is a software development company based in Dumaguete City, Philippines thriving to use the recent state-of-the-art technology in the IT industry like Java and .net platforms, agile technology workflow, mobile technology, and many others.</p>
+                    <p>Tri-Nvent is a software development company based in Dumaguete City, Philippines. The company uses the recent state-of-the-art technology for the enterprise  such as Java, VB.Net, Android and many others.</p>
 
-                    <p>We specialize on custom software applications development (e.g. Accounting System, Inventory and Warehousing, Billing and Collection, Payroll, etc.), enterprise content management solutions (e.g. e-commerce), data migration and enterprise application integration, web designs and development, Network Designs and Implementations.
-                        We started on September 2009 with the commitment for quality software products and services. We might be new as a corporation but the extraordinary working attitude and relationship driven approach as a team is compelling.</p>
+                    <p>
+                        We specialize in building custom applications to various type of industries.  We are expert in data migration and enterprise application integration, web designs and development, and wireless networks.
+                    </p>
+
+                    <p>
+                        The co-founders have merged their expertise and experience in software development and financial accounting for the commitment of providing quality products and services.
+                    </p>
 
                     <h4>Best Practices</h4>
                     <p>
                         <i class="fa fa-suitcase"></i>&nbsp;&nbsp;Active stakeholder’s participation<br>
-                        <i class="fa fa-phone-square"></i>&nbsp;&nbsp;Collaboration, open, and constant communication<br>
-                        <i class="fa fa-user"></i>&nbsp;&nbsp;Relationship driven approach between Stakeholders, employee, and clients<br>
-                        <i class="fa fa-road"></i>&nbsp;Test driven development
+                        <i class="fa fa-phone-square"></i>&nbsp;&nbsp;High level of constant communication<br>
+                        <i class="fa fa-road"></i>&nbsp;Test driven development<br>
+                        <i class="fa fa-bullseye"></i>&nbsp;Agile practices<br>
+                        <i class="fa fa-th-large"></i>&nbsp;Object oriented design
                     </p>
+                </div>
+            </div><!-- row -->
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <h4>Company history</h4>
+                    <p>Founded on September 2009 by three exceptional individuals, Ramil D. Repe, a certified public accountant, Rey D. Repe, and Voltaire F. Picardo, both experts in Systems Administration, and Software Development and Designs.</p>
+                    <p>The company has started out in outsourcing software development projects from one of the prestigious software development company in the Philippines as lone client.    For its competitive edge solutions, Tri-Nvent  has gained widespread reputation as surging software development company in the planet with growing number of clients from various industry.</p>
+                    <p>With the team's commitment for innovation and success in its line of business, TSI expanded its services by accepting outsourcing projects worldwide.</p>
+                    <p>“Rewarding Innovation with our IT Solution” is the company’s tagline promising the present and future development to be of superior quality and efficient service.</p>
                 </div>
             </div><!-- row -->
         </div><!-- container -->
