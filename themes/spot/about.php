@@ -84,7 +84,9 @@ $this->inc('elements/header.php'); ?>
                 <img class="img-circle" src="/files/5314/0826/2233/mikho1.JPG" width="110" height="130" alt="">
                 <h4>Mikho Anthony Malto</h4>
                 <h5 class="title">Software Engineer</h5>
-                <p class="profile">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <p class="profile">
+                    Mhiko is a sporty guy but a super star when it comes to software engineering. He has a vast knowledge in various development stuffs, ranging from web & mobile technologies and hardware systems. As a sporty person, he loves to play basketball and his idol is Dwayne Wade.
+                </p>
             </div><!-- col-lg-3 -->
 
         </div>
@@ -95,28 +97,37 @@ $this->inc('elements/header.php'); ?>
                 <img class="img-circle" src="/files/5214/0826/6471/tonyo.jpg" width="110" height="130" alt="">
                 <h4>Tony Anthony Zerna</h4>
                 <h5 class="title">Software Engineer</h5>
-                <p class="profile">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <p class="profile">
+                    Tony is a geek by nature, not to mention the eye glasses. He is very dedicated to his work. His versatile talent contributed huge impact to the success of the company. He is one of the rising stars in the development industry of the country. During his free time (as if there is), Tony loves to play Dota 2, drink beer and inhale the air of the famous boulevard of the city.
+                </p>
             </div><!-- col-lg-3 -->
 
             <div class="col-lg-3">
                 <img class="img-circle" src="/files/3014/0826/5283/arjay.jpg" width="110" height="130" alt="">
                 <h4>Arjay Adong</h4>
                 <h5 class="title">Software Engineer</h5>
-                <p class="profile">Arjay is a true hard core software developer. For best results give him the freedom to show you what he can do and allow him to be creative. A true professional, he’ll deliver more than you expected. Guaranteed.</p>
+                <p class="profile">Arjay is a true hard core and pragmatic software developer. For best results give him the freedom to show you what he can do and allow him to be creative. A true professional, he’ll deliver more than you expected. Guaranteed.
+                    <br />
+                    His favorites includes McDonalds coffee, beer, travelling and playing pocket tanks.
+                </p>
             </div><!-- col-lg-3 -->
 
             <div class="col-lg-3">
                 <img class="img-circle" src="/files/5314/0829/1075/lester.jpg" width="110" height="130" alt="">
                 <h4>Lester John Paul Cadiz</h4>
                 <h5 class="title">Software Engineer / Designer</h5>
-                <p class="profile">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <p class="profile">
+                    LJP is multi-skilled and talented; hardcore Java and Vb.Net programmer and graphic artist (Photoshop and Illustrator). He’s been engaged in developing various government office automation projects, Point of Sale System (POS) and maintains them up to the present. Outside work, Lester is a musician and a member of a local band.
+                </p>
             </div><!-- col-lg-3 -->
 
             <div class="col-lg-3">
                 <img class="img-circle" src="/files/7814/0829/1446/ryan.png" width="110" height="130" alt="">
                 <h4>Ryan Repe</h4>
                 <h5 class="title">Software Engineer</h5>
-                <p class="profile">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                <p class="profile">
+                    A very diligent and passionate individual.  He’s been involved in different software development projects while still in college.   With his skills, he was hired directly by an American owned software development company after graduation.  His expertise covers from Microsoft.Net, Java, PHP and many other tools.
+                </p>
             </div><!-- col-lg-3 -->
 
         </div>
