@@ -108,7 +108,7 @@ $this->inc('elements/header.php'); ?>
                 <h5 class="title">Software Engineer</h5>
                 <p class="profile">Arjay is a true hard core and pragmatic software developer. For best results give him the freedom to show you what he can do and allow him to be creative. A true professional, he’ll deliver more than you expected. Guaranteed.
                     <br />
-                    His favorites includes McDonalds coffee, beer, travelling and playing pocket tanks.
+                    His favorites include McDonalds coffee, beer, travelling and playing pocket tanks.
                 </p>
             </div><!-- col-lg-3 -->
 
