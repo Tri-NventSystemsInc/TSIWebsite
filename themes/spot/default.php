@@ -4,9 +4,8 @@ $this->inc('elements/header.php'); ?>
 	<div id="headerwrap">
 		<div class="container">
 			<div class="row centered">
-				<div class="col-lg-8 col-lg-offset-2">
-				<h1>It Doesn't Take a Rocket <b>Scientist</b></h1>
-				<h2>It Takes a Designer</h2>
+				<div class="col-lg-12">
+                    <h2 style="margin-top: 23% !important; text-align: right">Our apps are meant to be read by humans</h2>
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
