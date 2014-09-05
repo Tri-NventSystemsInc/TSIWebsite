@@ -5,7 +5,12 @@ $this->inc('elements/header.php'); ?>
 		<div class="container">
 			<div class="row centered">
 				<div class="col-lg-12">
-                    <h2 style="margin-top: 23% !important; text-align: right">Our apps are meant to be read by humans</h2>
+                    <div style="margin-top: 15% !important; text-align: right">
+                        <h2>Your partner in software development</h2>
+                        <h2>System integration expert</h2>
+                        <h2>We say less, do more</h2>
+                        <h2>Customer focused development</h2>
+                    </div>
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
