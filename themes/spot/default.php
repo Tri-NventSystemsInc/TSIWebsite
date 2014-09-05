@@ -18,19 +18,26 @@ $this->inc('elements/header.php'); ?>
 			<div class="col-lg-4">
 				<i class="fa fa-heart"></i>
 				<h4>DESIGN</h4>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even believable.</p>
+				<p>
+                    We practice face to face analysis to delve customer needs and their business processes in order to determine the scope of the project.
+                </p>
 			</div><!-- col-lg-4 -->
 
 			<div class="col-lg-4">
 				<i class="fa fa-laptop"></i>
 				<h4>DEVELOP</h4>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even believable.</p>
+				<p>
+                    We at TSI have been known to be hardcore coders with enormous respects to actual users. Deliver quality with no compromise.
+                </p>
 			</div><!-- col-lg-4 -->
 
 			<div class="col-lg-4">
 				<i class="fa fa-trophy"></i>
 				<h4>SUPPORT</h4>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even believable.</p>
+				<p>
+                    <b>Technical problems? We listen, we solve.</b><br/>
+                    It is our stand at Tri-Nvent to attend every client’s needs with the best of our ability.
+                </p>
 			</div><!-- col-lg-4 -->
 		</div><!-- row -->
 		<br>
