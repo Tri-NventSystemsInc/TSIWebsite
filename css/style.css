@@ -37,6 +37,8 @@ h1 {
   font-size: 30px;
   font-weight: 200;
 }
+
+
 .navy-line {
   width: 60px;
   height: 1px;
@@ -240,12 +242,15 @@ h1 {
   font-size: 38px;
   text-transform: uppercase;
   text-shadow: none;
+
   letter-spacing: -1.5px;
 }
 .carousel-caption p {
-  font-weight: 700;
-  text-transform: uppercase;
+  font-weight: 750;
+  font-size: 12px;
   text-shadow: none;
+  width: 650px;
+    font-weight: 300;
 }
 .caption-link {
   color: #fff;
