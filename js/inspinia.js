@@ -1,4 +1,4 @@
-// INSPINIA Landing Page Custom scripts
+// Custom scripts
 $(document).ready(function () {
 
     // Highlight the top nav as scrolling
@@ -14,4 +14,36 @@ $(document).ready(function () {
         }, 500);
         event.preventDefault();
     });
+
+
+
+
+    // Move modal to body
+    // Fix Bootstrap backdrop issu with animation.css
+    $('.modal').appendTo("body")
+
+
+
+
 });
+
+
+// For demo purpose - animation css script
+function animationHover(element, animation){
+    element = $(element);
+    element.hover(
+        function() {
+            element.addClass('animated ' + animation);
+        },
+        function(){
+            //wait for animation to finish before removing classes
+            window.setTimeout( function(){
+                element.removeClass('animated ' + animation);
+            }, 2000);
+        });
+}
+
+
+
+
+
